@@ -69,8 +69,6 @@ customer-churn-analytics/
 ├── utils/
 │   └── download_data.py
 │
-├── dashboard/
-│
 ├── app.py
 ├── requirements.txt
 ├── README.md
