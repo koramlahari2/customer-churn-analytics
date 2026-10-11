@@ -111,7 +111,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-analytics.git
+git clone https://github.com/koramlahari2/customer-churn-analytics.git
 ```
 
 ---
